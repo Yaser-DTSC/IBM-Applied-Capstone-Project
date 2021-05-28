@@ -14,7 +14,7 @@ The questions I aim to answer in this project are the following:
 
 ## Code
     
-An ipython notebook is used for data preprocessing, machine learning analysis and data visualiation. All core scripts are in Week 5 Final .ipynb files" folder. All result output are in result folder and the detailed description of the data can be found in Week 5 section of repository.
+An ipython notebook is used for data preprocessing, machine learning analysis and data visualiation. All core scripts are in **Week 5 Final .ipynb files" folder**. All result output are in result folder and the detailed description of the data can be found in [Week 5](https://github.com/Yaser-DTSC/IBM-Applied-Capstone-Project/tree/main/Week%205) section of repository.
 
 ## Information
 
